@@ -4,8 +4,8 @@
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-09-defiprotocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts Sept 16 2021 00:00 UTC
-- Ends Sept 22 2021 23:59 UTC
+- Starts September 16, 2021 00:00 UTC
+- Ends September 22, 2021 23:59 UTC
 
 # Contracts
 - Factory.sol - 117 lines
