@@ -1,6 +1,6 @@
 # defiProtocol contest details
-- $47,500 main award pot
-- $2,500 gas optimization award pot
+- $47,500 worth of ETH main award pot
+- $2,500 worth of ETH gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-09-defiprotocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
